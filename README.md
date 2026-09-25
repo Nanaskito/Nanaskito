@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Francisco+%F0%9F%91%8B;Java+Backend+Developer;E-commerce+%26+SAP+Commerce+Cloud+(Hybris);Open+to+new+backend+challenges)](https://git.io/typing-svg)
 
-📍 São Paulo, Brazil
+📍 Paraná, Brazil
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
