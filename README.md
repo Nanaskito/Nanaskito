@@ -53,7 +53,7 @@ public class JoaoFrancisco {
 
 ### 📄 Resume
 
-🇧🇷 Portuguese Resume (PDF): _coming soon_
+🇧🇷 Portuguese Resume (PDF): _coming soon_  
 🇺🇸 English Resume (PDF): _coming soon_
 
 🌐 Portfolio website: planned, not built yet
