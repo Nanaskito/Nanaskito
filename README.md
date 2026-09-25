@@ -4,7 +4,7 @@
 
 📍 Paraná, Brazil
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![divider](divider-blue.svg)
 
 </div>
 
@@ -29,7 +29,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![divider](divider-blue.svg)
 
 </div>
 
@@ -47,7 +47,20 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![divider](divider-blue.svg)
+
+</div>
+
+### 📄 Resume
+
+🇧🇷 Portuguese Resume (PDF): _coming soon_
+🇺🇸 English Resume (PDF): _coming soon_
+
+🌐 Portfolio website: planned, not built yet
+
+<div align="center">
+
+![divider](divider-blue.svg)
 
 </div>
 
@@ -58,7 +71,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![divider](divider-blue.svg)
 
 ### 📊 GitHub Stats
 
