@@ -4,7 +4,7 @@
 
 📍 Paraná, Brazil
 
-![divider](divider-blue.svg)
+<img src="divider-blue.svg" width="100%" height="3" alt="divider">
 
 </div>
 
@@ -29,7 +29,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](divider-blue.svg)
+<img src="divider-blue.svg" width="100%" height="3" alt="divider">
 
 </div>
 
@@ -47,7 +47,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](divider-blue.svg)
+<img src="divider-blue.svg" width="100%" height="3" alt="divider">
 
 </div>
 
@@ -60,7 +60,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](divider-blue.svg)
+<img src="divider-blue.svg" width="100%" height="3" alt="divider">
 
 </div>
 
@@ -71,7 +71,7 @@ public class JoaoFrancisco {
 
 <div align="center">
 
-![divider](divider-blue.svg)
+<img src="divider-blue.svg" width="100%" height="3" alt="divider">
 
 ### 📊 GitHub Stats
 
