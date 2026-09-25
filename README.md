@@ -51,19 +51,6 @@ public class JoaoFrancisco {
 
 </div>
 
-### 📄 Resume
-
-🇧🇷 Portuguese Resume (PDF): _coming soon_  
-🇺🇸 English Resume (PDF): _coming soon_
-
-🌐 Portfolio website: planned, not built yet
-
-<div align="center">
-
-<img src="divider-blue.svg" width="100%" height="3" alt="divider">
-
-</div>
-
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-francisco-60896516a/)
@@ -82,3 +69,14 @@ public class JoaoFrancisco {
 </picture>
 
 </div>
+
+<!--
+Resume section (hidden for now, waiting on PDFs):
+
+### 📄 Resume
+
+🇧🇷 Portuguese Resume (PDF): coming soon
+🇺🇸 English Resume (PDF): coming soon
+
+🌐 Portfolio website: planned, not built yet
+-->
